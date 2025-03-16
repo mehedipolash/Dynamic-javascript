@@ -220,8 +220,6 @@ function showProducts() {
             </div>
           </div>
         </div>
-
-
     
     `;
     document.getElementById('product-container').append(productCard);
